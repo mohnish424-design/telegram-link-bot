@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Replace this string with your actual BotFather token
-TOKEN = "8062886361:AAEQy6YmczZG3S6M7i4Dn2RWJYMZ-6xcgvw"
+TOKEN = "80-6xcgvw"
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
